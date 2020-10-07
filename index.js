@@ -1,5 +1,5 @@
 function namafungsi (){	
-	return "a";
+	return "ax";
 }
 
 module.exports = namafungsi;
