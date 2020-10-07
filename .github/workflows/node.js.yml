@@ -4,8 +4,8 @@
 name: Node.js CI
 
 on: 
-  pull-request:
-    Branches: [master]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   build:
